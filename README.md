@@ -1,4 +1,5 @@
-# PROCOIN
+### PROCOIN#
+https://github.com/P7-33/PROCOIN.wiki.git
 Skip to content
 
 mdexSwap
@@ -14,10 +15,10 @@ Wiki
 Security
 Insights
  master 
-contracts/bscContracts/mdxToken.sol
+contracts/bscContracts/mdx.PROCOIN TOKENS
 
 386965396 update
- 1 contributor
+ 
 1321 lines (1156 sloc)  45.1 KB
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.0;
