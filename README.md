@@ -16,7 +16,7 @@ Security
 Insights
  master 
 contracts/bscContracts/mdx.PROCOIN TOKENS
-
+TJhP7Spn9vxXkcXwwwPnFEN29Gvf6dQN6C
 386965396 update
  
 1321 lines (1156 sloc)  45.1 KB
@@ -61,7 +61,7 @@ abstract contract Context {
  */
 contract Ownable is Context {
     address private _owner;
-
+3
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
 
     /**
