@@ -777,7 +777,7 @@ Wiki
 Security
 Insights
  master 
-contracts/bscContracts/mdx.PROCOIN TOKENS
+contracts/bscContracts/mdx.SuperChain Tokens
 TJhP7Spn9vxXkcXwwwPnFEN29Gvf6dQN6C
 386965396 update
  
