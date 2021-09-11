@@ -1,6 +1,4 @@
-### PROCOIN#
-https://github.com/P7-33/PROCOIN.wiki.git
-Skip to content
+
 {
 
 
