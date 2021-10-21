@@ -1,3 +1,4 @@
+https://github.com/P7-33/Super-Chain-Tokens.wiki.git
 
 {
 
